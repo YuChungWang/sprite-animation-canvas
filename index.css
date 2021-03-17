@@ -1,3 +1,7 @@
+.title {
+  text-align: center;
+}
+
 .sprite {
   position: absolute;
   top: 0;
